@@ -1,0 +1,18 @@
+:root{
+    --nav-bg: black; 
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+   background: var(--nav-bg);
+   height: 5em;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
