@@ -27,7 +27,7 @@
 }
 
 .logo {
-  background-image: url("Amazon_img/amazon_logo.png");
+  background-image: url("amazon_image/amazon_logo.png");
   background-size: cover;
   height: 50px;
   width: 100%;
@@ -37,8 +37,6 @@
 
 .nav-logo {
   display: flex;
-  /* justify-content: center;
-      text-align: center; */
   position: static;
   float: none;
 }
@@ -223,17 +221,12 @@
   display: grid;
   place-items: center;
   grid-auto-flow: column;
-  /* grid-auto-columns: 45%; */
-  /* overflow-x: scroll; */
-  /* scroll-snap-type: x mandatory; */
-  /* scroll-padding: 1rem; */
 }
 
 .paneli-deals-right {
   cursor: pointer;
   font-size: 0.7rem;
   font-weight: 700;
-  /* text-align: right; */
   line-height: 1em;
 }
 
@@ -245,7 +238,7 @@
 
 /* hero-section */
 .hero-section {
-  background-image: url("Amazon_img/hero-amazon-image.jpg");
+  background-image: url("amazon_image/hero_image.jpg");
   height: 400px;
   background-size: cover;
 }
@@ -254,8 +247,6 @@
   justify-content: space-evenly;
   display: flex;
   flex-wrap: wrap;
-  /* justify-content: center; */
-  /* text-align: center; */
   background-color: #e2e7e6;
 }
 
@@ -276,14 +267,12 @@
 }
 
 .box-content {
-  margin-left: 1rem;
-  margin-right: 1rem;
+  margin-inline: 1rem;
 }
 
-.box-content p {
-  color: #007185;
+.box-btn-text a{
+  text-decoration: none;
 }
-
 .header-bottom {
   text-decoration: none;
   height: 75px;
@@ -291,9 +280,6 @@
   overflow: hidden;
   padding: 0 10px;
   position: relative;
-  /* display: flex; */
-  /* justify-content: center; */
-  /* align-items: center; */
   box-sizing: border-box;
   display: block;
   height: 75px;
@@ -339,6 +325,11 @@ footer {
   font-size: 0.85rem;
 }
 
+.foot-panel-text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .footer-option-lists p {
   font-weight: 600;
 }
@@ -384,7 +375,7 @@ ul {
 }
 
 .logo {
-  background-image: url("Amazon_img/amazon_logo.png");
+  background-image: url("amazon_image/amazon_logo.png");
   background-size: cover;
   height: 50px;
   width: 100px;
