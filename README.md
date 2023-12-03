@@ -1,5 +1,5 @@
 # Hi, I'm Ritik!! 👋🙂
-you are currently viewing my Amazon frontend clone, created using only HTML and CSS, Info about this project-
+you are currently viewing my Amazon frontend clone, created using only HTML and CSS and preview of Info about this project-
 
 # Nav, links and Hero Section-
 
