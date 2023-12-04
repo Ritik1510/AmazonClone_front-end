@@ -348,8 +348,6 @@ ul {
 }
 
 .footer-option-lists ul a {
-  /* justify-content: space-evenly;
-      text-align: center; */
   cursor: pointer;
   color: #dddddd;
   display: block;
