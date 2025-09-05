@@ -57,25 +57,25 @@ export const footerBottomLinks = {
 export const cardsData = [
   {
     title: "Up to 60% off | Styles for men",
-    image: "../assets/box1_image.jpg",
+    image: "./assets/box1_image.jpg",
     linkText: "See more",
     link: "#",
   },
   {
     title: "Make with 40% off | Styles for women",
-    image: "../assets/box2_image.jpg",
+    image: "./assets/box2_image.jpg",
     linkText: "See more",
     link: "#",
   },
   {
     title: "Pets food section",
-    image: "../assets/box3_image.jpg",
+    image: "./assets/box3_image.jpg",
     linkText: "See more",
     link: "#",
   },
   {
     title: "Up to 60% off | Toys for kids",
-    image: "../assets/box4_image.jpg",
+    image: "./assets/box4_image.jpg",
     linkText: "See more",
     link: "#",
   },
@@ -87,43 +87,43 @@ export const cardsData = [
   },
   {
     title: "Up to 60% off | Styles for men",
-    image: "../assets/box6_image.jpg",
+    image: "./assets/box6_image.jpg",
     linkText: "See more",
     link: "#",
   },
   {
     title: "Up to 60% off | Styles for men",
-    image: "../assets/box7_image.jpg",
+    image: "./assets/box7_image.jpg",
     linkText: "See more",
     link: "#",
   },
   {
     title: "Up to 60% off | Mobiles",
-    image: "../assets/box8_image.jpg",
+    image: "./assets/box8_image.jpg",
     linkText: "See more",
     link: "#",
   },
   {
     title: "Up to 60% off | Styles for men",
-    image: "../assets/box9_image.jpg",
+    image: "./assets/box9_image.jpg",
     linkText: "See more",
     link: "#",
   },
   {
     title: "Up to 60% off | Styles for men's grooming",
-    image: "../assets/box10_image.jpg", // fixed .jpgg typo
+    image: "./assets/box10_image.jpg", // fixed .jpgg typo
     linkText: "See more",
     link: "#",
   },
   {
     title: "Up to 60% off | Styles for men",
-    image: "../assets/box11_image.jpg", // fixed .jpgg typo
+    image: "./assets/box11_image.jpg", // fixed .jpgg typo
     linkText: "See more",
     link: "#",
   },
   {
     title: "Up to 60% off | Styles for men",
-    image: "../assets/box1_image.jpg", // fixed .jpgg typo
+    image: "./assets/box1_image.jpg", // fixed .jpgg typo
     linkText: "See more",
     link: "#",
   },
@@ -132,31 +132,31 @@ export const cardsData = [
 const sampleCardData = [
   {
     title: "Up to 60% off | Styles for men",
-    image: "../assets/box1_image.jpg",
+    image: "./assets/box1_image.jpg",
     linkText: "See more",
     link: "#"
   },
   {
     title: "Make with 40% off | Styles for women",
-    image: "../assets/box2_image.jpg",
+    image: "./assets/box2_image.jpg",
     linkText: "See more",
     link: "#"
   },
   {
     title: "Pets food section",
-    image: "../assets/box3_image.jpg",
+    image: "./assets/box3_image.jpg",
     linkText: "See more",
     link: "#"
   },
   {
     title: "Up to 60% off | Toys for kids",
-    image: "../assets/box4_image.jpg",
+    image: "./assets/box4_image.jpg",
     linkText: "See more",
     link: "#"
   },
   {
     title: "Up to 60% off | Mobiles",
-    image: "../assets/box8_image.jpg",
+    image: "./assets/box8_image.jpg",
     linkText: "See more",
     link: "#"
   }
