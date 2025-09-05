@@ -1,7 +1,7 @@
 import './App.css'
 import Footer from './components/Footer'
 import Header from './components/Header'
-import Layout from './components/Layout'
+import ShopSection from './components/ShopSection'
 
 // function routes(){ 
 //   return (
@@ -17,7 +17,7 @@ function App() {
   return (
     <>
       <Header />
-      <Layout />
+      <ShopSection />
       <Footer />
     </>
   )
